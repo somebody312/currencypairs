@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.2.2)
+  - HandyJSON (5.0.0)
+  - Sheeeeeeeeet (3.1.2)
+  - SnapKit (5.0.0)
+  - Swinject (2.6.2)
+
+DEPENDENCIES:
+  - Alamofire (= 5.2.2)
+  - HandyJSON (= 5.0.0)
+  - Sheeeeeeeeet
+  - SnapKit (= 5.0.0)
+  - Swinject (= 2.6.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HandyJSON
+    - Sheeeeeeeeet
+    - SnapKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  Sheeeeeeeeet: 32140933792b9cf3928d306af71ba9dd9edc9b9d
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  Swinject: cf7458774b1b00323080a9c67e47a1ee7f9d2af1
+
+PODFILE CHECKSUM: 4edf6f032ea3ff9faa994a19f769db0c06f5134c
+
+COCOAPODS: 1.9.3

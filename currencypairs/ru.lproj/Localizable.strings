@@ -1,0 +1,10 @@
+"ruble" = "рубль";
+"dollar" = "доллар";
+"euro" = "евро";
+"Since yesterday %@" = "Со вчерашнего дня %@";
+" grew by" = " вырос на";
+" fell by" = " упал на";
+" %d percent" = " %d процент";
+" did not changed significantly" = " существенно не изменился";
+"UPDATED AT %@" = "ОБНОВЛЕНО В %@";
+"Something goes wrong, please try again" = "Что-то пошло не так. Пожалуйста, попробуйте ещё раз";
